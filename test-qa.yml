@@ -1,0 +1,7 @@
+prod:
+  id : gpabby
+  pass : testpass1
+
+qa:
+  id : gpabby-qa
+  pass : testpass2
